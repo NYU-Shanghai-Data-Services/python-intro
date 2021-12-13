@@ -29,7 +29,10 @@ Download the workshop notebook [here](https://github.com/NYU-Shanghai-Data-Servi
 
 - OR you could upload this notebook onto your Google Drive, and open it with Google Colaboratory.
 
-![image](https://user-images.githubusercontent.com/93502896/145759170-f15b65ce-1fd1-454f-963b-53028b3462a9.png)
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/93502896/145759170-f15b65ce-1fd1-454f-963b-53028b3462a9.png'>
+  </p>
+  
   - If Google Colab is not yet installed on your drive, click “Connect more apps” and search for Google Colab.
 
 ## Ending Credits
