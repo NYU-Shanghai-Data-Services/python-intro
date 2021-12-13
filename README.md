@@ -1,16 +1,16 @@
 # Intro to Python for Non-Programmers
 *In-person workshop originally held at NYU Shanghai on September 10, 2021.*
 
-This repository serves as a documentation of the workshop. In this workshop, we learned how to write the basics of Pythhon -- including comments, variables, operators, and statements.
+This repository serves as a documentation of the workshop. In this workshop, we learned how to write the basics of Python -- including comments, variables, operators, and statements.
 
 ## Python Workshop Series
 - **Intro to Python for Non-Programmers**
 - Intro to Data Structures for Non-Programmers
-- Intrro to Data Analysis for Non-Programmers
+- Intro to Data Analysis with Python for Non-Programmers
 ![image](https://user-images.githubusercontent.com/93502896/145762981-b028f172-6eea-43a1-958a-90f3a55b0d2c.png)
 
 ## Table of Contents
-*Download full slide [here](https://github.com/NYU-Shanghai-Data-Services/python-intro/blob/main/1_Intro%20to%20Python.pptx)*
+*Download full slides [here](https://github.com/NYU-Shanghai-Data-Services/python-intro/blob/main/1_Intro%20to%20Python.pptx)*
 
 Part I: 
 - What is Python
