@@ -4,7 +4,7 @@
 This repository serves as a documentation of the workshop. In this workshop, we learned how to write the basics of Pythhon -- including comments, variables, operators, and statements.
 
 ## Table of Contents
-*Download full slide [here]()*
+*Download full slide [here](https://github.com/NYU-Shanghai-Data-Services/python-intro/blob/main/1_Intro%20to%20Python.pptx)*
 Part I: 
 - What is Python
 - The Uses of Python
