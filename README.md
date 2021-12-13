@@ -5,8 +5,8 @@ This repository serves as a documentation of the workshop. In this workshop, we 
 
 ## Python Workshop Series
 - **Intro to Python for Non-Programmers**
-- Intro to Data Structures for Non-Programmers
-- Intro to Data Analysis with Python for Non-Programmers
+- [Intro to Data Structures for Non-Programmers](https://github.com/NYU-Shanghai-Data-Services/python-data-analysis)
+- [Intro to Data Analysis with Python for Non-Programmers](https://github.com/NYU-Shanghai-Data-Services/python-data-structures)
 ![image](https://user-images.githubusercontent.com/93502896/145762981-b028f172-6eea-43a1-958a-90f3a55b0d2c.png)
 
 ## Table of Contents
