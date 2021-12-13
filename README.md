@@ -1,7 +1,13 @@
 # Intro to Python for Non-Programmers
-*In-person workshop originally held at NYU Shanghai on October 29, 2021. Designed and delivered by Pamela Pan (@pamela-pan)*
+*In-person workshop originally held at NYU Shanghai on September 10, 2021.*
 
 This repository serves as a documentation of the workshop. In this workshop, we learned how to write the basics of Pythhon -- including comments, variables, operators, and statements.
+
+## Python Workshop Series
+- **Intro to Python for Non-Programmers**
+- Intro to Data Structures for Non-Programmers
+- Intrro to Data Analysis for Non-Programmers
+![image](https://user-images.githubusercontent.com/93502896/145762981-b028f172-6eea-43a1-958a-90f3a55b0d2c.png)
 
 ## Table of Contents
 *Download full slide [here](https://github.com/NYU-Shanghai-Data-Services/python-intro/blob/main/1_Intro%20to%20Python.pptx)*
@@ -30,7 +36,7 @@ Download the workshop notebook [here](https://github.com/NYU-Shanghai-Data-Servi
 
 Tutorial framework: https://www.w3schools.com/python/default.asp
 
-Modified and organized by: Pamela Pan, Jie Chen
+Modified and organized by: Pamela Pan(@pamela-pan), Jie Chen
 
 ## Got Questions?
 Contact shanghai.library.data@nyu.edu for any questions.
