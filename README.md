@@ -25,3 +25,11 @@ Download the workshop notebook [here](https://github.com/NYU-Shanghai-Data-Servi
 ![image](https://user-images.githubusercontent.com/93502896/145759170-f15b65ce-1fd1-454f-963b-53028b3462a9.png)
   - If Google Colab is not yet installed on your drive, click “Connect more apps” and search for Google Colab.
 
+## Ending Credits
+
+Tutorial framework: https://www.w3schools.com/python/default.asp
+
+Modified and organized by: Pamela Pan, Jie Chen
+
+## Got Questions?
+Contact shanghai.library.data@nyu.edu for any questions.
